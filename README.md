@@ -1,4 +1,3 @@
 # Python Jupyter Notebook
 
-Click on a notebook to see the action.
-
+Click on any notebook above and see the action.
