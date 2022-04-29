@@ -1,9 +1,8 @@
 # Python Jupyter Notebook
 
-Click on any notebook above and see the action.
+Click on any Jupyter Notebook bellow to see the action. 
 
-That is just pretty nice.
+GitHub executes the Jupyter Notebook. That is just pretty nice.
 
-Check the magic guys, for reference:
+* [Multi Linear Regression](https://github.com/robson-koji/jupyter-notebooks/blob/main/linear_regression.ipynb)
 
-https://blog.jupyter.org/rendering-notebooks-on-github-f7ac8736d686
