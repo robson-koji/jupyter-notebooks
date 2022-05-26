@@ -10,5 +10,6 @@ GitHub executes the Jupyter Notebook. That is just pretty nice.
 * [Moving Linear Regression](https://github.com/robson-koji/jupyter-notebooks/blob/main/moving_linear_regression.ipynb)
 
 
-* [Machine Learning Classification Problem (This is not a notebook, it is just a link to my blog post, following this machine learning series.)](https://robsonkoji.blogspot.com/2022/05/machine-learning-classification-problem.html)
+* [Machine Learning Classification Problem](https://robsonkoji.blogspot.com/2022/05/machine-learning-classification-problem.html) - This is not a notebook, it is just a link to my blog post, following this machine learning series.
+
 
